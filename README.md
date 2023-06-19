@@ -1,0 +1,1 @@
+This project is called odin-recipes. This project showcases the skills and knowledge I learned from the intro html course from the odin project.
